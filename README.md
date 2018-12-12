@@ -26,9 +26,15 @@ node liri.js
 
 #### Application takes in 4 different commands:
 * concert-this (information about concerts of a specific artist)
+![concertthis](https://user-images.githubusercontent.com/40690696/49890083-09a00980-fdf8-11e8-8905-f81b63add6cb.PNG)
+
 * spotify-this-song (information about a specific song)
+![spotifythissong](https://user-images.githubusercontent.com/40690696/49890082-09a00980-fdf8-11e8-8677-858e3cadfd60.PNG)
+
 * movie-this (information about a specific movie)
+![moviethis](https://user-images.githubusercontent.com/40690696/49890080-09077300-fdf8-11e8-940a-8ad63ade508c.PNG)
+
 * do-what-it-says (uses npm inquirer and prompt to let the user choose a command)
+![dowhatitsays](https://user-images.githubusercontent.com/40690696/49890081-09a00980-fdf8-11e8-905a-85483527fcf0.PNG)
 
 #### Video demo of the application: https://drive.google.com/file/d/15bBPXb29qQr744ocfwbdrhCScb0qRKUt/view
-* Note: When passing in a value, quotation marks are only needed when there are more than one word.
